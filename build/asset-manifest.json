@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/city-falcon/static/css/main.6d1999ad.chunk.css",
+    "main.js": "/city-falcon/static/js/main.9a508f51.chunk.js",
+    "main.js.map": "/city-falcon/static/js/main.9a508f51.chunk.js.map",
+    "runtime-main.js": "/city-falcon/static/js/runtime-main.4a36381e.js",
+    "runtime-main.js.map": "/city-falcon/static/js/runtime-main.4a36381e.js.map",
+    "static/js/2.69975ad3.chunk.js": "/city-falcon/static/js/2.69975ad3.chunk.js",
+    "static/js/2.69975ad3.chunk.js.map": "/city-falcon/static/js/2.69975ad3.chunk.js.map",
+    "static/js/3.70c69a88.chunk.js": "/city-falcon/static/js/3.70c69a88.chunk.js",
+    "static/js/3.70c69a88.chunk.js.map": "/city-falcon/static/js/3.70c69a88.chunk.js.map",
+    "index.html": "/city-falcon/index.html",
+    "static/css/main.6d1999ad.chunk.css.map": "/city-falcon/static/css/main.6d1999ad.chunk.css.map",
+    "static/js/2.69975ad3.chunk.js.LICENSE.txt": "/city-falcon/static/js/2.69975ad3.chunk.js.LICENSE.txt",
+    "static/media/logo-desktop.5cd3980a.svg": "/city-falcon/static/media/logo-desktop.5cd3980a.svg",
+    "static/media/user.a2446033.png": "/city-falcon/static/media/user.a2446033.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a36381e.js",
+    "static/js/2.69975ad3.chunk.js",
+    "static/css/main.6d1999ad.chunk.css",
+    "static/js/main.9a508f51.chunk.js"
+  ]
+}
